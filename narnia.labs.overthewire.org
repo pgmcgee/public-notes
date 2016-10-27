@@ -1,0 +1,11 @@
+narnia.labs.overthewire.org
+
+http://overthewire.org/wargames/narnia/
+
+| Username | Password   | How solved?                                  |
+|----------+------------+----------------------------------------------|
+| narnia0  | narnia0    | Buffer overflow + cat to keep the shell open |
+| narnia1  | edified |                                              |
+|          |            |                                              |
+|          |            |                                              |
+|          |            |                                              |
